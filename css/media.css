@@ -47,10 +47,10 @@ header .navbar a{
     text-align: center;
 }
 
-.media, img{
+.media, .ink{
     border-radius: 20px;
     margin-top: 40px;
-    margin-left: 20rem;
+    text-align: center;
 }
 
 .section3{
