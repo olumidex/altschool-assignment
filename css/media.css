@@ -50,7 +50,7 @@ header .navbar a{
 .media, img{
     border-radius: 20px;
     margin-top: 40px;
-    margin-right: 40rem;
+    justify-content: center;
 }
 
 .section3{
