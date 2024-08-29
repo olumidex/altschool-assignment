@@ -31,10 +31,6 @@ header .navbar a{
 
 /* ending of header styling */
 
-.container{
-    margin: auto 25%;
-}
-
 .section{
     margin-top: 7rem;
 }
@@ -54,6 +50,8 @@ header .navbar a{
 .media, img{
     border-radius: 20px;
     margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section3{
