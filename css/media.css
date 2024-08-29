@@ -47,7 +47,7 @@ header .navbar a{
     text-align: center;
 }
 
-.media, .ink img{
+.media, .ink, img{
     border-radius: 20px;
     margin-top: 40px;
     text-align: center;
